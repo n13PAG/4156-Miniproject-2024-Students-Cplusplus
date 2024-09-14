@@ -1,0 +1,11 @@
+Videos used to understand libraries
+
+Doxygen 
+https://www.youtube.com/watch?v=5G1zUpNFmEY
+
+cppchecker
+https://www.youtube.com/watch?v=oJ8SXVoefaA
+https://www.youtube.com/watch?v=24ajcWSfdaY
+
+
+
